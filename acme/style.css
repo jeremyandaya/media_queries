@@ -5,7 +5,7 @@
 	margin: 0 auto;
 
 	margin-left: auto;
-    margin-right: auto;
+	margin-right: auto;
 }
 
 .div1 {
@@ -47,7 +47,6 @@ a {
 
 .clear {
 	clear: both;
-
 }
 
 .main-image {
@@ -63,7 +62,9 @@ img {
 
 
 @media all and (max-width: 500px) {
+
 	body {
+		
 	}
 
 	a {
